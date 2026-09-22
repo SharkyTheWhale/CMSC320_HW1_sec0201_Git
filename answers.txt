@@ -9,3 +9,7 @@ Answer: Data Science can be applied to most fields, but a common one is marketin
 Q4: What are you looking forward to this semester?
 
 Answer: Plenty of Sleep. Maybe. Can't Guarntee that one.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two seperate branches. Rebasing appends the history of a branch to the head of another branch, effectively making it linear. 
